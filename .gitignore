@@ -1,2 +1,8 @@
 data/
 *.sqlite*
+node_modules/
+dist/
+.vercel/
+.env*
+!.env.example
+*service-account*.json
